@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Universe>
+    <Solar name="Home" x="0" y="0">
+        <Star name="Sun" mass="1.989e27" x="0" y="0" colour="yellow" size="15" body_radius="696340"/>
+
+        <Planet name="Earth" mass="5.972e21" radius="149600000" colour="blue" size="8" body_radius="6371">
+            <Moon name="Luna" mass="7.342e19" radius="384400" colour="gray" size="3" body_radius="1737"/>
+        </Planet>
+
+        <Planet name="Mars" mass="6.417e20" radius="227900000" colour="red" size="6" body_radius="3389"/>
+    </Solar>
+
+    <Solar name="Alpha Centauri" x="10000000000" y="0">
+        <Star name="Proxima" mass="2.446e26" x="10000000000" y="0" colour="red" size="12" body_radius="107288"/>
+        <Planet name="Centauri Prime" mass="6.5e21" radius="50000000" colour="cyan" size="9" body_radius="7000"/>
+    </Solar>
+</Universe>

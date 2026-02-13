@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Ships>
+    <Ship name="Astral" class="Player" mass="100.0" thrust="2.0" x="149630000" y="0" colour="cyan" />
+</Ships>
